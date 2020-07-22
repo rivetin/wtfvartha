@@ -1,2 +1,4 @@
-dnspython==1.16.0
-dotenv==0.0.5
+EditorConfig==0.12.2
+jsbeautifier==1.11.0
+python-dotenv==0.14.0
+six==1.15.0
