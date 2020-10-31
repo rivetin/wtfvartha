@@ -60,7 +60,7 @@ def get_chat_id_and_text(updates):
 
 def get_news_text():
     now = datetime.datetime.now()
-    url = ('https://newsapi.org/v2/top-headlines?''country=in&''apiKey=814669b73ab4455d88d17512b78af5c2')
+    url = ('https://newsapi.org/v2/top-headlines?''country=in&''apiKey=YOUR API KEY')
     print()
     print("Getting news json form -> \n\b",url)
     print()
